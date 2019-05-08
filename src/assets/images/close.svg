@@ -7,7 +7,7 @@
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.3" font-family="FontAwesome" font-size="14" font-weight="normal">
         <g id="Artboard" transform="translate(-170.000000, -70.000000)" fill="#000000">
             <text id="times---FontAwesome">
-                <tspan x="170" y="80"></tspan>
+                <tspan x="170" y="80">✘</tspan>
             </text>
         </g>
     </g>
